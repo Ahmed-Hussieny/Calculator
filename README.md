@@ -1,4 +1,4 @@
 # Calculator
 
-##Calculator using HTML CSS JS Bootstrap
+Calculator using HTML CSS JS Bootstrap
 
